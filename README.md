@@ -34,10 +34,10 @@ workaround as described for ordinary user,
 goto C:\Users\YOUR_NAME\Documents\Arduino\libraries\TVout  
 move folder TVoutfonts to C:\Users\YOUR_NAME\Documents\Arduino\libraries\  
 
-or uses profile manager of win10 to do to that folder  
-[%USERPROFILE%\Documents\Arduino\libraries\TVout](%USERPROFILE%\Documents\Arduino\libraries\TVout)
+or uses profile manager of win10 to do to that folder, copy the link following, paste to file explorer,    
+
 ```
-[%USERPROFILE%\Documents\Arduino\libraries\TVout](%USERPROFILE%\Documents\Arduino\libraries\TVout)  
+%USERPROFILE%\Documents\Arduino\libraries\TVout  
 ```
 ref: https://www.computerhope.com/issues/ch000109.htm  
 How to open your user profile folder in Windows  
