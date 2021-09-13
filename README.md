@@ -5,8 +5,8 @@ no fork, but clone and modification for work with UNO or Atmega328p
 
 
 ref. source
-https://www.arduino.cc/reference/en/libraries/tvout/
-https://github.com/Avamander/arduino-tvout
+https://www.arduino.cc/reference/en/libraries/tvout/  
+https://github.com/Avamander/arduino-tvout  
 
 issue, https://github.com/Avamander/arduino-tvout/issues/130
 
