@@ -17,6 +17,9 @@ burn_UNO_PAL.bat
 
 
 ### notice
+
+#### error: fontALL.h: No such file or directory
+
 library 1.0.1 and Arduino IDE 1.8.15 are not working together.  
 
 opened the Library Manager in the Arduino IDE and install it from there  
