@@ -7,6 +7,11 @@ the circuit, same pin#, UNO or NANO
 ![Arduino_TVout_xiaolaba_circuit.JPG](Arduino_TVout_xiaolaba_circuit.JPG)   
 ![Arduino_TVout_xiaolaba_circuit2.JPG](Arduino_TVout_xiaolaba_circuit2.JPG)  
 
+the example of why nano was used  
+![nano_more_easy_for_tv_troubles_shoot](nano_more_easy_for_tv_troubles_shoot)  
+
+
+
 
 ref. source
 https://www.arduino.cc/reference/en/libraries/tvout/  
