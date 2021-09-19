@@ -3,8 +3,9 @@ no fork, but clone and modification for work with UNO or Atmega328p
 
 ![Arduino_TVout_xiaolaba.JPG](Arduino_TVout_xiaolaba.JPG)  
 
-the circuit  
-![Arduino_TVout_xiaolaba_circuit.JPG](Arduino_TVout_xiaolaba_circuit.JPG)  
+the circuit, same pin#, UNO or NANO    
+![Arduino_TVout_xiaolaba_circuit.JPG](Arduino_TVout_xiaolaba_circuit.JPG)   
+![Arduino_TVout_xiaolaba_circuit2.JPG](Arduino_TVout_xiaolaba_circuit2.JPG)  
 
 
 ref. source
